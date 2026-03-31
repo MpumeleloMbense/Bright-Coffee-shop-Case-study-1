@@ -1,4 +1,4 @@
-# Bright-Coffee-shop-Case-study-1
+# Lelo-Coffee-shop-Case-study-1
 
 Project Introduction
 
