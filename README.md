@@ -12,4 +12,4 @@ Tools used for this project
 - Miro for planning and architect
 - Databricks for SQL data processing
 - Microsoft excel for data visualisation
-- Canva for finall prentation to the CEO.
+- Powerpoint for final prentation to the CEO.
